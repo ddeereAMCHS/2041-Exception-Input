@@ -18,7 +18,7 @@ cat\
 0\
 1\
 ***Example Output:***\
-ERROR: a number must be enterd\
+ERROR: a number must be entered\
 \
 ***Example Input:***\
 3\
