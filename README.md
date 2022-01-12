@@ -38,4 +38,4 @@ ERROR: a valid index must be given\
 0\
 1\
 ***Example Output:***\
-The sum of the values at index 0 and index 1 is 3\
+The sum of the values at index 0 and index 1 is 3
