@@ -10,32 +10,32 @@
   - If the user does not enter a number when prompted, print "ERROR: a number must be entered"
   - If the user does not enter a valid index, print "ERROR: a valid index must be given"
 
-Example Input:\
+***Example Input:***\
 3\
 1\
 2\
 cat\
 0\
 1\
-Example Output:\
+***Example Output:***\
 ERROR: a number must be enterd\
 \
-Example Input:\
+***Example Input:***\
 3\
 1\
 2\
 3\
 0\
 3\
-Example Output:\
+***Example Output:***\
 ERROR: a valid index must be given\
 \
-Example Input:\
+***Example Input:***\
 3\
 1\
 2\
 3\
 0\
 1\
-Example Output:\
+***Example Output:***\
 The sum of the values at index 0 and index 1 is 3\
