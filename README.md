@@ -1,5 +1,7 @@
 # Exception Input
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `ExceptionInput.java`
 - Prompt the user for a number
   - This is how many integers you will read in
