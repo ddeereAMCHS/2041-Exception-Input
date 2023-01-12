@@ -9,8 +9,8 @@
 - Prompt the user for two integers
 - Print the sum of the integers at those two indices following the format given in the example output
 - Be sure to handle all exceptions using try/catch statements
-  - If the user does not enter a number when prompted, print "ERROR: a number must be entered"
-  - If the user does not enter a valid index, print "ERROR: a valid index must be given"
+  - If the user does not enter a number when prompted, print "ERROR: a number must be entered" and then stop execution of the program
+  - If the user does not enter a valid index, print "ERROR: a valid index must be given" and then stop execution of the program
 
 ***Example Input:***\
 3\
