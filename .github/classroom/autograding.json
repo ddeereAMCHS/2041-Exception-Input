@@ -7,7 +7,7 @@
       "input": "3\r\n1\r\n2\r\ncat\r\n0\r\n1",
       "output": "ERROR: a number must be entered$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "3\r\n1\r\n2\r\n3\r\n0\r\n3",
       "output": "ERROR: a valid index must be given$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "3\r\n1\r\n2\r\n3\r\n0\r\n1",
       "output": "The sum of the values at index 0 and index 1 is 3$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
