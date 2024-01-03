@@ -1,6 +1,6 @@
 # Exception Input
 
-## Due: Mon 1/9 at 11:59 PM
+## Due: Mon 1/8 at 11:59 PM
 
 - Create a program called `ExceptionInput.java`
 - Prompt the user for a number
