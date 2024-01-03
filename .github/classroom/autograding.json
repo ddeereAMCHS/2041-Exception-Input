@@ -11,7 +11,17 @@
       "points": null
     },
     {
-      "name": "invalid index",
+      "name": "invalid index (non-numeric)",
+      "setup": "javac ExceptionInput.java",
+      "run": "java ExceptionInput",
+      "input": "3\r\n1\r\n2\r\n3\r\nwoof\r\n3",
+      "output": "ERROR: a number must be entered$",
+      "comparison": "regex",
+      "timeout": 2,
+      "points": null
+    },
+    {
+      "name": "invalid index (out of bounds)",
       "setup": "javac ExceptionInput.java",
       "run": "java ExceptionInput",
       "input": "3\r\n1\r\n2\r\n3\r\n0\r\n3",
