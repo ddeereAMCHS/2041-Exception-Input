@@ -27,6 +27,16 @@ ERROR: a number must be entered\
 1\
 2\
 3\
+woof\
+1\
+***Example Output:***\
+ERROR: a number must be entered\
+\
+***Example Input:***\
+3\
+1\
+2\
+3\
 0\
 3\
 ***Example Output:***\
