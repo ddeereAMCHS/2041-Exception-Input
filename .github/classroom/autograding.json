@@ -14,7 +14,7 @@
       "name": "invalid index (non-numeric)",
       "setup": "javac ExceptionInput.java",
       "run": "java ExceptionInput",
-      "input": "3\r\n1\r\n2\r\n3\r\nwoof\r\n3",
+      "input": "3\r\n1\r\n2\r\n3\r\nwoof\r\n1",
       "output": "ERROR: a number must be entered$",
       "comparison": "regex",
       "timeout": 2,
